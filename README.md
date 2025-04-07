@@ -19,7 +19,7 @@ A Go implementation of a deterministic transaction processor for blockchain-like
 
 ##### 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/transaction-executor.git
+git clone https://github.com/henrymatteng/transaction-executor.git
 cd transaction-executor
 ```
 ##### 2. Run the project
